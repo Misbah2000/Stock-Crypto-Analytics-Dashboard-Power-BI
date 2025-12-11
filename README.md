@@ -6,6 +6,10 @@ A visually rich and interactive Power BI dashboard designed to analyze **Stock M
 
 ## 🚀 **Project Overview**
 
+### 🔗 **Live Power BI Report**
+
+[Click here to view the interactive report](https://app.powerbi.com/groups/me/reports/bbffef9e-ce0d-4b85-a228-f80dabe31694/85c814950646504d5946?experience=power-bi)
+**
 This project showcases a complete end‑to‑end analysis of stock and cryptocurrency performance using Power BI. It includes:
 
 * Trend analysis
@@ -34,7 +38,6 @@ The goal of this dashboard is to help users understand market movements quickly 
 ## 🛠️ **Tools & Technologies Used**
 
 * **Power BI Desktop** (Main tool)
-* * **Power BI Service**
 * **Power Query** (ETL)
 * **DAX** (Measures & Calculations)
 * **CSV/Excel datasets** for stocks & crypto
@@ -94,9 +97,13 @@ Pull requests are welcome! If you want to enhance visualizations or add datasets
 
 ### ⭐ If you like this project, consider giving the repository a star!
 
-# 🔴 Live Power BI Report (Interactive) #
+---
 
-👉 Click to open the full interactive dashboard:
-## ➡️ Click here to view the interactive report 📊💰 ##
+## 🔴 **Live Power BI Report (Interactive)**
 
-📌 Opens in your browser — best viewed on desktop for full experience.*
+### 👉 **Click to open the full interactive dashboard:**
+
+➡️ **[Live Power BI Report 📊💰](https://app.powerbi.com/groups/me/reports/bbffef9e-ce0d-4b85-a228-f80dabe31694/85c814950646504d5946?experience=power-bi)**
+🔗 **Direct Link:** [https://app.powerbi.com/groups/me/reports/bbffef9e-ce0d-4b85-a228-f80dabe31694/85c814950646504d5946?experience=power-bi](https://app.powerbi.com/groups/me/reports/bbffef9e-ce0d-4b85-a228-f80dabe31694/85c814950646504d5946?experience=power-bi)
+
+📌 **Opens in your browser — best viewed on desktop for full experience.***
