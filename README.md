@@ -97,6 +97,6 @@ Pull requests are welcome! If you want to enhance visualizations or add datasets
 # 🔴 Live Power BI Report (Interactive) #
 
 👉 Click to open the full interactive dashboard:
-## ➡️ Live Power BI Report 📊💰 (Click Here) ##
+## ➡️ Click here to view the interactive report 📊💰 ##
 
 📌 Opens in your browser — best viewed on desktop for full experience.*
